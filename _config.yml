@@ -34,6 +34,12 @@ defaults:
       type: "metaphorloop_episodes"
     values:
       layout: "metaphorloop_episode"
+  -
+    scope:
+      path: ""
+      type: "talks"
+    values:
+      layout: "talk"
 
 exclude:
   - "Gemfile"
@@ -67,3 +73,6 @@ collections:
   metaphorloop_episodes:
     output: true
     permalink: "/metaphorloop/:name/"
+  talks:
+    output: true
+    permalink: "/talks/:name/"
