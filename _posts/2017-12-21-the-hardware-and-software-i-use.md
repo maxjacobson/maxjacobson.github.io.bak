@@ -3,13 +3,13 @@ title: the hardware and software I use (2017)
 date: 2017-12-21 01:57 EST
 ---
 
-I'm an inveterate reader of [Uses This] style articles and I've always wanted someone to ask me to participate in one and no one has, and I have a perfectly fine blog, so here this goes nothing (actually something quite self-indulgent and in need of editing and unlikely to be an annual tradition now that I know how weird it feels to write this all out).
+I'm an inveterate reader of [Uses This] style articles and I've always wanted someone to ask me to participate in one and no one has, and I have a perfectly fine blog, so here goes nothing (actually something quite self-indulgent and in need of editing and unlikely to be an annual tradition now that I know how weird it feels to write this all out).
 
 [Uses This]: https://usesthis.com/
 
 I'm borrowing the questions from that website (thanks).
 
-## Table of contents, because this got long, but I guess that's because I really like using hardware and software, which is true
+## Table of contents, because this got long, but I guess that's because I really like using hardware and software, which is true, and that's a good point when you think about it
 
 * [Who are you, and what do you do?](#who-am-i)
 * [What hardware do you use?](#hardware)
@@ -60,7 +60,7 @@ If anything, I'm in the camp of people who detest having to charge things.
 Next up is the **[2016 9.7" iPad Pro][ipad]**.
 I mainly use it to do things like watch videos in bed or read Twitter on the couch.
 Occasionally I'll take it out to a cafe with the **[Apple Magic Keyboard]** so I can do more productive stuff like write emails or research some project, where I appreciate being able to command+tab to switch between apps or command+space to quick-launch apps.
-I recently bought a **[Canopy]** keyboard case and iPad stand to kinda encourage me to do that more, and hopefully I'll like that.
+I recently bought a **[Canopy]** keyboard case to kinda encourage me to do that more, and hopefully I'll like that.
 
 I like having it.
 It lets me give my phone a break.
